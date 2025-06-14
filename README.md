@@ -10,32 +10,32 @@ A KiCad project that has the schematic and PCB design for the CY8CPROTO-063-BLE_
 
 ### Programming Module
 
-![alt text](Images\image.png)
+![alt text](Images/image.png)
 
 ### BLE_Module
 
-![alt text](Images\BLE_Module.png)
+![alt text](Images/BLE_Module.png)
 
 ## PCB Layout
 
 ### Placement of Components
 
-![alt text](Images\Front_Assembly.png)
-![alt text](Images\Back_assembly.png)
+![alt text](Images/Front_Assembly.png)
+![alt text](Images/Back_assembly.png)
 
 ### Overall PCB Layout
 
-![alt text](Images\Front_Overall.png)
+![alt text](Images/Front_Overall.png)
 
 ## 3D View
 
 ### Top View
 
-![alt text](Images\Top_view.png)
+![alt text](Images/Top_view.png)
 
 ### Bottom View
 
-![alt text](Images\Bottom_view.png)
+![alt text](Images/Bottom_view.png)
 
 ## License
 
