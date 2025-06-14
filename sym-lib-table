@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/VedantM/Documents/KiCad/pcb-psoc-63-ble/temp/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "myLibrary")(type "KiCad")(uri "C:/Users/VedantM/Documents/KiCad/pcb-psoc-63-ble/myLibrary.kicad_sym")(options "")(descr ""))
+)

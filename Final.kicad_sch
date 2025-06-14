@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f0451484-e762-4bff-8b02-cc7e8f81e85b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 71.755 28.575)
+		(size 141.605 61.595)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5db277f2-e890-43df-8a34-f584a19fe573")
+		(property "Sheetname" "Programming_Module"
+			(at 71.755 27.8634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1.kicad_sch"
+			(at 71.755 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Final"
+				(path "/f0451484-e762-4bff-8b02-cc7e8f81e85b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 99.06)
+		(size 142.24 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7a2e84ff-1115-4d31-a4a0-02337b9b8d65")
+		(property "Sheetname" "BLE_Module"
+			(at 72.39 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "2.kicad_sch"
+			(at 72.39 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Final"
+				(path "/f0451484-e762-4bff-8b02-cc7e8f81e85b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
