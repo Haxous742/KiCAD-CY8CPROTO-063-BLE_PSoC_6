@@ -1,10 +1,13 @@
 # CY8CPROTO-063-BLE-PSoC-6
-A KiCad project that has the schematic and PCB design for the CY8CPROTO-063-BLE_PSoC_6_BLE_Prototyping_Kit
+A KiCad project that has the schematic and PCB design for the CY8CPROTO-063-BLE-PSoC-6-BLE-Prototyping-Kit
 
 ### Original Image of CY8CPROTO-063-BLE-PSoC-6
 
+![alt text](Images/Real.png)
 
 ### Tools Used
+
+The electronic design and development were done using KiCad, an open-source EDA software. The version used for this project is KiCad 9.0.0.
 
 ## Schematic
 
@@ -12,7 +15,7 @@ A KiCad project that has the schematic and PCB design for the CY8CPROTO-063-BLE_
 
 ![alt text](Images/image.png)
 
-### BLE_Module
+### BLE Module
 
 ![alt text](Images/BLE_Module.png)
 
